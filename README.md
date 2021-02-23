@@ -1,4 +1,4 @@
-# ML-Flower-species-recognition
+# ML-Flower-Species-Recognition
 
 ![ML](https://i2.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/11/Machine-Learning-Project-on-Flower-Recognition.png?fit=1280%2C720&ssl=1)
 
