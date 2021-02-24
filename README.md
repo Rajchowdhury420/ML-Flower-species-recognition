@@ -7,4 +7,4 @@
 ##### The Size the dataset is 278mb. 
 ##### This project predicts the species of flowers and trains on the dataset provided by google.</p>
   ###### Epoch used =10
-  ##### highest accuracy reached =0.9677 or 96.77% 
+  ##### highest accuracy reached =0.9677 or 96.77%
